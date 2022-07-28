@@ -1,5 +1,5 @@
-name: "Cloudflare DNS Export"
-author: "Raiyan Sarker"
+name: "Cloudflare DNS Export - prefix"
+author: "Fabrizio Salmi" 
 description: "This actions would export DNS records from Cloudflare DNS and store it on Github"
 branding:
   icon: "download-cloud"
