@@ -25,7 +25,7 @@ jobs:
           ZONE_ID: ${{secrets.ZONE_ID}}
           API_KEY: ${{secrets.API_KEY}}
           FOLDER: backup
-          PREFIX: raiyansarker.com
+          PREFIX: (put your domain here)
 ```
 
 This action is fairly easy to setup. This only requires two information. One is `ZONE_ID` which you can find on the dashboard of your domain in Cloudflare.
